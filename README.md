@@ -41,4 +41,4 @@ IT undergraduate at **IIEST Shibpur** interested in systems programming, low-lat
 
 💻 **LeetCode:** https://leetcode.com/u/VioThane/
 
-🎯 **AtCoder:** https://atcoder.jp/users/Mankeyyy
+🎯 **AtCoder:** https://atcoder.jp/users/Mankeyy
