@@ -1,32 +1,44 @@
-# Mayank
+# Hello, I'm Mayank
 
-IT undergrad, IIEST Shibpur. C++, systems, low latency.
-Codeforces Specialist. Currently nerd-sniped by a 2013 geometry paper and too much OS reading.
-Football when I'm off the keyboard.
+IT undergraduate at **IIEST Shibpur** interested in systems programming, low-latency software, and algorithm engineering.
 
-Codeforces Specialist. Currently nerd sniped by a 2013 geometry paper and too much OS reading.
+- 🏆 Codeforces Specialist
+- ⚙️ C++, performance engineering
+- 📚 Currently studying **Operating Systems (OSTEP)** and **FPGA/HLS workflows**
+- 🔬 Research Intern working on **Chan's 2013 algorithm for the d-dimensional Klee's Measure Problem**
+- 💻 Part-time Frontend/UI Developer at **VisualEEZ**, improving user flows and interface experience
 
-Football when I'm off the keyboard.
-
-### building
-
-**MatchPoint** :  finds you people to play sports with (built it partly to find football games). MERN app, then I moved the scoring into a C++ core to keep the heavy math off the request path.
-
-**FPGA CNN Accelerator** :  a CNN doing fixed point inference on a PYNQ Z2. I owned the whole path: wrote the C++ for HLS, took it through Vivado, onto the board.
-
-
-**Klee's Measure (d dimensions)** :  Chan's 2013 algorithm for the volume of a union of boxes, for a research internship. The recursion is fine. The pain is that wrong answers look right until a brute force oracle calls your bluff.
-
-
-### Competitive programming handles
-
-Codeforces → [Mayank_9207](https://codeforces.com/profile/Mayank_9207) · Specialist
-LeetCode → [VioThane](https://leetcode.com/u/VioThane/)
-AtCoder → [Mankeyyy](https://atcoder.jp/users/Mankeyyy)
-
-### say hi
-
-Systems, algorithms, or football. I'm in.
+**Ask me about:** C++, Competitive Programming, Systems Programming, FPGA acceleration, Algorithms.
 
 ---
 
+# Projects
+
+| Project | Description | Tech |
+|----------|-------------|------|
+| **MatchPoint** | • Built a squad based sports matchmaking engine.<br>• Ported the assignment solver from Python to a high performance C++17 core using pybind11.<br>• Performed staged optimization using perf and pytest benchmark while verifying byte identical output against the Python reference.<br>• Designed an event driven matcher with per region distributed locks and a claim before solve protocol for safe concurrent matchmaking. | **C++17, pybind11, CMake, FastAPI, MongoDB, React** |
+| **FPGA CNN Accelerator** | • Implemented fixed point ResNet 20 inference for the CIFAR 10 dataset on a PYNQ Z2 FPGA.<br>• Developed the accelerator in C++ using High Level Synthesis.<br>• Synthesized the design with Vitis HLS, integrated it in Vivado, and deployed it on hardware for inference. | **C++, Vitis HLS, Vivado** |
+| **Klee's Measure (Research Implementation)** | • Research implementation of Timothy Chan's 2013 algorithm for computing the volume of the union of axis aligned boxes in arbitrary dimensions.<br>• Built a recursive divide and conquer implementation in C++.<br>• Verified correctness using an independent brute force oracle and randomized stress testing as part of an ongoing research internship. | **C++, Computational Geometry, Algorithms** |
+---
+
+# Tech Stack
+
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Express](https://img.shields.io/badge/Express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+
+---
+
+# Competitive Programming
+
+🏆 **Codeforces:** https://codeforces.com/profile/Mayank_9207 
+
+💻 **LeetCode:** https://leetcode.com/u/VioThane/
+
+🎯 **AtCoder:** https://atcoder.jp/users/Mankeyyy
