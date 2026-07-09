@@ -6,7 +6,7 @@ IT undergraduate at **IIEST Shibpur** interested in systems programming, low-lat
 - ⚙️ C++, performance engineering
 - 📚 Currently studying **Operating Systems (OSTEP)** and **FPGA/HLS workflows**
 - 🔬 Research Intern working on **Chan's 2013 algorithm for the d-dimensional Klee's Measure Problem**
-- 💻 Part-time Full Stack Developer at **VisualEEZ**, improving user flows, interface experience and optimizing APIs.
+- 💻 Part-time Full Stack Developer at **Visualeez**, improving user flows, interface experience and optimizing APIs.
 
 **Ask me about:** C++, Competitive Programming, Systems Programming, FPGA acceleration, Algorithms.
 
